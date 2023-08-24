@@ -1,1 +1,3 @@
-Project in WHU, course design of Big Data Analytics.
+Project in WHU, course research design of Big Data Analytics.
+
+The study aims to enhance stock index prediction accuracy using the LSTM method and further improve it by employing Random Forest Regression to model residuals. The research is motivated by the difficulty in accurately predicting financial markets due to the random walk nature of financial time series and dynamic relationships between variables over time. The combination of LSTM for trend and price time series interpretation, along with RF for other market information such as sentiment, provides a comprehensive approach to interpreting market data.
